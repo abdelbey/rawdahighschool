@@ -1,6 +1,8 @@
 // import React from 'react';
 import './Home.css';
 import { Link } from 'react-router-dom';
+import React from 'react';
+
 // import ChooseSection from '../../components/ChooseSection/ChooseSection';
 // import StartCoursesImg from '../../utils/images/start-courses-img.jpg';
 // import FaqAccordion from '../../components/FaqAccordion/FaqAccordion';
